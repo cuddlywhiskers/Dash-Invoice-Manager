@@ -1,8 +1,21 @@
 # Dash Invoice Management App
-Demo built to create an invoice management app with built-in analytics for SMEs. 
+Demo built to create an [invoice management app](https://invoice-management-demo.herokuapp.com/) with built-in analytics for SMEs. 
 
-To view dashboard, proceed to this [link](https://invoice-management-demo.herokuapp.com/)
+This app is currently only running on local machines with pre-built SQL databases, there are future plans to develop cloud-based database that allows users to store invoice details on cloud platforms. 
 
+## Usage
+
+To run this app, 
+
+1. kindly fork this repo
+2. run the follow code in your command line terminal
+```
+python app.py 
+```
+3. Enter this website on your browser: http://127.0.0.1:8050/ 
+
+
+## Screenshots 
 **Dashboard/Main Tab:**
 Analytics based on collected invoice 
 
