@@ -351,7 +351,7 @@ def update_table(choosen_cols, vendor, start_period, end_period, outstanding):
     [Input('select_bill_from', 'value')])
 def output_text(value):
     if value == 'My Shop':
-        return 'HSK Seafood PTE LTD'
+        return 'Your Company PTE LTD'
     else:
         return value
 
