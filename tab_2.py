@@ -34,7 +34,7 @@ bill_from = dbc.Row([
 	dbc.Col([
 		html.H5('Bill From:'),
 		html.Br(),
-		html.H6('HSK Seafood PTE LTD', style ={'font-size': 18}),
+		html.H6('Your Company', style ={'font-size': 18}),
 		],
 		width = {'size': 6}
 		),
