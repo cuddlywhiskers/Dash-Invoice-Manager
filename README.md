@@ -1,7 +1,7 @@
 # Dash Invoice Management App
 Demo built to create an [invoice management app](https://invoice-management-demo.herokuapp.com/) with built-in analytics for SMEs. 
 
-This app is currently only running on local machines with pre-built SQL databases, there are future plans to develop cloud-based database that allows users to store invoice details on cloud platforms. 
+This app is currently only running on local machines with pre-built SQL databases, there are future plans to integrate cloud-based database that allows users to store invoice details on cloud databases. 
 
 ## Usage
 
