@@ -10,9 +10,6 @@ import numpy as np
 import sqlalchemy 
 from datetime import datetime as dt
 
-stylesheets=[dbc.themes.LUX]
-app = dash.Dash(__name__, external_stylesheets= stylesheets)
-
 def read_sql():
     conn = sqlite3.connect('test.db')
     c = conn.cursor()
