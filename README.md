@@ -7,7 +7,7 @@ This app is currently only running on local machines with pre-built SQL database
 
 To run this app, 
 
-1. kindly fork this repo
+1. Fork this repo
 2. run the follow code in your command line terminal
 ```
 python app.py 
@@ -31,4 +31,5 @@ Input new invoice based and store data to generate monthly statement and analyti
 
 ![Screenshot 2020-03-02 at 11 41 01 PM](https://user-images.githubusercontent.com/54569808/75691640-4bf48580-5cdf-11ea-9384-165d79303723.png)
 
+## Credits
 The app is built using [Dash](https://plot.ly/dash/) and hosted on [Heroku](https://dashboard.heroku.com/)
